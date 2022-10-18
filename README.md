@@ -1,1 +1,1 @@
-# basic
+# :wave: The Basics of Github (MODIFIED BY ZEKI DENIZ KEPE at 18th October , 22:00)
